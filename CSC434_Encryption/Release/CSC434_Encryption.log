@@ -1,0 +1,10 @@
+﻿  Encryption.cpp
+Encryption.cpp(73): warning C4018: '<': signed/unsigned mismatch
+Encryption.cpp(93): warning C4018: '<=': signed/unsigned mismatch
+  Generating code
+  0 of 180 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    44 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CSC434_Encryption.vcxproj -> E:\Documents\Visual Studio 2015\Projects\CSC434_Encryption\Release\CSC434_Encryption.exe
+  CSC434_Encryption.vcxproj -> E:\Documents\Visual Studio 2015\Projects\CSC434_Encryption\Release\CSC434_Encryption.pdb (Full PDB)
